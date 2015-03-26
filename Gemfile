@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.0.1'
+gem 'rails', '~> 4.0.1'
 gem 'pg'
 gem 'mysql2'
 gem 'haml'
