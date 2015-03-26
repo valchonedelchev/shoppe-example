@@ -11,6 +11,7 @@ gem 'redcarpet'
 gem 'faker'
 gem 'shoppe', '~> 0.0.20'
 gem 'thin'
+gem 'rails_12factor'
 
 group :development do
   gem 'capistrano'
