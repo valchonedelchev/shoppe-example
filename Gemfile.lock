@@ -78,6 +78,7 @@ GEM
     nifty-dialog (1.0.1)
     nifty-key-value-store (1.0.0)
     nifty-utils (1.0.0)
+    pg (0.18.1)
     polyamorous (0.6.4)
       activerecord (>= 3.0)
     polyglot (0.3.3)
@@ -164,6 +165,7 @@ DEPENDENCIES
   haml
   jquery-rails
   mysql2
+  pg
   rails (= 4.0.1)
   rails_12factor
   redcarpet
