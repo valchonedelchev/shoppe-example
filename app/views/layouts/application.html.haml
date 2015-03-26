@@ -29,7 +29,7 @@
           %h1= link_to Shoppe.settings.store_name, root_path
         
         - if @full_header
-          %h2 Welcome to our <em>shoppe</em>.
+          %h2 Welcome to <em>#{Shoppe.settings.store_name}</em>.
           %p.intro Check out our lovely products on this page and then you can buy them through the website with just a few clicks using our supremely simple ordering system.
       
       - if @full_header
